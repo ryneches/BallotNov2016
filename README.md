@@ -3,16 +3,16 @@
 My personal voter guide for the November 2016 election. Consolidated Precinct
 49, Yolo County, California.
 
-### Why am I doing this?
+### Why am I doing this
 
 There's too much stuff on this year's ballot for me to keep it organized in my
 head. This repository is my own personal voter guide for November. I'm sharing
 them here in case other people are feeling overwhelmed, and maybe wondering
 what other people are thinking about these issues.
 
-These are my personal opinions; I'm trying to what I think is right. Feel free
-to submit pull requests if you think I'm wrong about something, but I'll only
-pay attention to requests with clear, cogent arguments.
+These are my personal opinions; I'm trying to do what I think is right. Feel
+free to submit pull requests if you think I'm wrong about something, but I'll
+only pay attention to requests with clear, cogent arguments.
 
 ### Candidates
 
@@ -73,8 +73,11 @@ YES : I'm not really sure why this needs to be on the ballot, but sure.
 
 #### 60 Adult Films. Condoms. Health Requirements. Initiative Statute.
 
-NO : This is a workplace safety issue that should be decided by the people it
-actually affects. People outside the industry have no legitimate say in it.
+NO : This is a workplace safety issue that should be decided among the people
+it actually affects. People outside the industry have no legitimate say in it.
+It would be a different question if people in the industry were asking for the
+public to intervene, but that's not what's going on here. Just the opposite,
+actually.
 
 #### 61 State Prescription Drug Purchases. Pricing Standards. Initiative Statute.
 
@@ -89,8 +92,6 @@ and there is no evidence that it does anything to stop people from committing
 murder.
 
 #### 63 Firearms. Ammunition Sales. Initiative Statute.
-
-
 
 #### 64 Marijuana Legalization. Initiative Statute.
 
