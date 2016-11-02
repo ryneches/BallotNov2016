@@ -46,6 +46,9 @@ YES : Yay schools!
 
 #### 52 Medi-Cal Hospital Fee Program. Initiative Constitutional Amendment and Statute.
 
+YES : This initiative makes permanent the mechanism California uses to pay for
+Med-Cal. Opponents seem to think this is an opportunity to address executive
+pay (which I agree is a problem), but this doesn't seem to be relevant.
 
 #### 53 Revenue Bonds. Statewide Voter Approval. Initiative Constitutional Amendment.
 
@@ -53,11 +56,32 @@ NO : It's already stupid that we have to vote on every bond.
 
 #### 54 Legislature. Legislation and Proceedings. Initiative Constitutional Amendment and Statute.
 
+YES : I'm sure more transparency will be annoying for legislators and make it
+easier for lobbyists to lobby, but it also makes it easier for the public to
+keep an eye on their legislature. The latter is more important.
+
 #### 55 Tax Extension to Fund Education and Healthcare. Initiative Constitutional Amendment.
+
+YES : We need to overhaul the tax code, but as long as we're doing things
+piecemeal, I'm in favor of taxing rich people to pay for public schools and
+hospitals.
 
 #### 56 Cigarette Tax to Fund Healthcare, Tobacco Use Prevention, Research, and Law Enforcement. Initiative Constitutional Amendment and Statute.
 
+YES : The main reason to oppose taxes on tobacco is that it's regressive; more
+poor people smoke than rich. This measure diverts about half of the revenue it
+will raise to Medi-Cal, which provides health care for many of those folks. In
+terms of fairness, maybe that's not perfect. But it's good enough.
+
+California's taxes on tobacco products are pretty low, as states go. This
+measure would put our tobacco taxes a bit above the middle, but not at the
+top.
+
 #### 57 Criminal Sentences. Parole. Juvenile Criminal Proceedings and Sentencing. Initiative Constitutional Amendment and Statute.
+
+YES : Long sentences don't seem to be a very effective at deterring crime.
+Where public safety allows, I think we need to put more emphasis on
+rehabilitation.
 
 #### 58 English Proficiency. Multilingual Education. Initiative Statute.
 
@@ -81,6 +105,11 @@ actually.
 
 #### 61 State Prescription Drug Purchases. Pricing Standards. Initiative Statute.
 
+WTF : I have no idea. I'm inclined to vote YES simply because of the awfulness
+of the people on the NO side, but I'm not convinced the measure itself will,
+you know, *help*, and I'd rather not tie our hands if someone comes up with a
+better idea.
+
 #### 62 Death Penalty. Initiative Statute.
 
 YES : There are people who do things that are so terrible that they *deserve*
@@ -93,11 +122,17 @@ murder.
 
 #### 63 Firearms. Ammunition Sales. Initiative Statute.
 
+YES : A lot of this is already law, so a YES vote is more of a gesture. It
+just happens to be a gesture I'd like to make.
+
 #### 64 Marijuana Legalization. Initiative Statute.
 
 YES : Obviously.
 
 #### 65 Carryout Bags. Charges. Initiative Statute.
+
+NO : This seems like an attempt to deliberately mislead voters in case Measure
+67 passes. Garbage.
 
 #### 66 Death Penalty. Procedures. Initiative Statute.
 
@@ -108,3 +143,71 @@ be more convenient for the state to kill them.
 
 YES : Plastic bags are useful and convenient, but I've seen firsthand how
 destructive they are.
+
+### Local races
+
+#### State Assembly
+
+Bill Dodd : While I would like to support Davis local Mariko Yamada, her
+support for the death penalty disqualifies her. As I said above, I agree with
+Yamada that there are people who *deserve* the to die, but I can't get behind
+a candidate who thinks we should actually *carry that out.* Not, at least,
+while there's a chance that California could actually abolish it.
+
+Dodd strikes me a bit to my right as candidates go, but I appreciate that he
+seems to be quite serious about talking to the people affected by legislation
+before he decides what to do. I would be happier if Dodd came right out and
+condemned the death penalty, instead of [dropping hints that maybe it's a bad
+idea](http://www.bohemian.com/TheFishingReport/archives/2016/02/10/dodd-and-country-talking-with-senate-candidate-and-assembly-ag-committee-chair-bill-dodd).
+
+#### School district
+
+Susan Lovenburg, Alan Fernandes (incumbents) : The main issue here is [whether
+and how to reform the gifted
+program](http://www.sacbee.com/news/local/education/article27015826.html) in
+the Davis Public Schools. The program, called the "Alternative Instruction
+Model," is very similar to a program I participated in when I was in 5th and
+6th grades. Basically, the "gifted" kids get to leave the classroom and go do
+something more fun and interesting.
+
+This was wonderful for me. Our gifted program was project based; instead of
+listening to a teacher lecturing, we worked individually or in group on fun
+little projects. The projects always seemed easy and fluffy to me, but I think
+I still got more out of them than regular classroom stuff. I *hated* every
+minute I had to spend in a classroom in elementary school. It didn't really
+matter if I was behind or ahead of the class. Sitting quietly and listening to
+a lecture was just terrible. So, I'm all for alternatives to the traditional
+classroom.
+
+However, I remember what it was like in 4th grade, before the school district
+thought I was smart enough. At some point in the day, the kids I looked up to
+got to leave. I had to stay behind with the kids who liked to kick me around
+at recess. It made me feel... pretty awful. Like, suicidal ideation kind of
+awful.
+
+In the end, I think primary education is more about teaching small humans how
+not to be monsters. Letting the "gifted" kids leave their "not-gifted"
+classmates behind while they get special rewards is basically just putting an
+official school district endorsement on elitism. Of course we need to make
+sure school is challenging and interesting, but segregation has never been a
+good solution for anything.
+
+I've listened to a number of parents and students about the AIM program, and
+frankly, I find their thoughts on it to be repugnant in the extreme. Racist
+would be the *most charitable* way to describe it. 
+
+A *third* of Davis kids are in the AIM program. If that many of them can
+handle it, then all of them can handle it with a little help. I want the Davis
+schools to continue dismantling this program, and instead focus on making
+instruction work for all the kids.
+
+#### Measure H
+
+YES : The only way the school district can succeed in modernizing instruction
+is if it has the resources to try.
+
+#### Los Rios Community College District Area 4
+
+Ruth Scribner (incumbent) : Everything I hear about the community colleges
+around here indicate that they could probably use more state support, but
+they're run pretty well.
