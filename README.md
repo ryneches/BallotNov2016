@@ -26,10 +26,10 @@ server and connections with the Clinton Global Initiative, but I have not seen
 any convincing evidence of unethical or seriously improper behavior. This is
 despite intense, prolonged attention by people who have strong motivation to
 find and publicize damaging things about her. Similarly, the case (or rather
-cases) for her culpability in the Benghazi looks like a lot of nonsense. As
-Secretary of State it was her job to be responsible for any mistakes or errors
-in judgment that occurred under her supervision, and it seems to me that she
-discharged that duty appropriately. 
+cases) for her culpability in the Benghazi incident looks like a lot of
+nonsense. As Secretary of State it was her job to be responsible for any
+mistakes or errors in judgment that occurred under her supervision, and it
+seems to me that she discharged that duty appropriately.
 
 As far as her opponent is concerned, the less is said the better.
 
@@ -127,7 +127,34 @@ just happens to be a gesture I'd like to make.
 
 #### 64 Marijuana Legalization. Initiative Statute.
 
-YES : Obviously.
+YES : Obviously. It's already basically legal. May as well make it official
+and collect some taxes, and deny some business opportunities for criminal
+organizations. The [SacBee
+disagrees](http://www.sacbee.com/opinion/editorials/article102380352.html),
+but for totally stupid reasons. The health effects of marijuana and tobacco
+are almost completely unrelated. Marijuana is not linked to any major public
+health issue, unless you include the effects of police harassment on health.
+
+Yes, probably more people will smoke marijuana for the fun of it if this
+passes. Yes, some of these people will do dumb and maybe destructive things
+while stoned. Probably, though, recreational marijuana use will displace some
+alcohol use, which will be better for everyone. Alcohol is *ridiculously*
+destructive. Even if overall drug use goes up, trading even a small portion of
+alcohol for marijuana will make everyone safer.
+
+And, it does seem likely that displacement would happen. It does not seem
+likely that the availability of legal marijuana would lead people to suddenly
+spend more time under the influence. Most people I know basically schedule
+their time spent intoxicated, and new drug options won't change how the rest
+of their lives work.
+
+The only serious opposition is worried about driving under the influence.
+Speaking as someone who does not plan to partake, I would *much* prefer to be
+around a bunch of stoned people than a bunch of drunk people. In my
+experience, it's a lot easier to convince a stoned person that they're not
+ready to drive. Stoned people are also usually less inclined to attack people
+or smash things. I don't expect miracles here, but I think recreational
+marijuana will mean safer public spaces. 
 
 #### 65 Carryout Bags. Charges. Initiative Statute.
 
